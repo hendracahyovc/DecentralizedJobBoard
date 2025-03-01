@@ -1,2 +1,2 @@
 ## Decentralized Job Board
-Website ini menampilkan board lowongan kerja berbasis blockchain. Konsepnya: perusahaan bisa posting lowongan, dan mahasiswa bisa explore lowongan dari sistem terdesentralisasi.
+Website ini menampilkan board lowongan kerja berbasis blockchain, explore lowongan dari sistem terdesentralisasi.
